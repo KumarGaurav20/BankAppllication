@@ -1,0 +1,11 @@
+[1m
+				*****************************************************************************
+								BANK STATEMENT
+				*****************************************************************************
+				 IFSC CODE: CBIN1029		 TOLL FREE NO: 11000	 BRANCH: KANJAHWALA
+
+[0m					Name:	Kumar
+					Account Number:	1AE76B7046
+					Balance:	10000
+					PAN:	CVDPG1864N
+					Email:	kumarg3@amdocs.com
