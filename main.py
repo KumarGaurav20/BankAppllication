@@ -187,7 +187,7 @@ def statement():
                     Select * FROM RECORDS WHERE NAME = '{statement_name}' 
     ''')
     for x in statement_holder:
-        fp= open("Statement.txt", "w+")
+        fp= open("Statement.txt", "w")
         fp.write("\033[1m" + "\n\t\t\t\t*****************************************************************************\n")
         fp.write("\t\t\t\t\t\t\t\tBANK STATEMENT\n")
         fp.write("\t\t\t\t*****************************************************************************\n")
